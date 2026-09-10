@@ -87,14 +87,15 @@ clinical-data-analysis/
 ├── notebooks/
 │   └── clinical_readmission_analysis.ipynb
 └── README.md
+```
 
-Limitations
+## Limitations
 
 This project is intended as a data-analysis portfolio demonstration rather than a clinically deployable prediction model.
 
 The dataset is historical, several variables contain substantial missingness, and model performance may not generalize to contemporary clinical populations. Future work could include feature engineering, threshold optimization, calibration assessment, tree-based models, and external validation.
 
-Data Source
+## Data Source
 
 Diabetes 130-US Hospitals for Years 1999–2008
 UCI Machine Learning Repository
